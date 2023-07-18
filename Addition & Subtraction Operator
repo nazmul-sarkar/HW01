@@ -1,0 +1,13 @@
+#Addition Operator
+
+A = 19
+B = 31
+X = (A+B)
+print (X)
+
+#Subtraction Operator
+
+A = 79
+B = 21
+X = (A-B)
+print (X)
